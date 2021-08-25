@@ -1,7 +1,5 @@
 {
   "features": {
-    "appsync": {
-      "generategraphqlpermissions": true
-    }
+    
   }
 }
